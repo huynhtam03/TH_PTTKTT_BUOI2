@@ -18,6 +18,13 @@
 ## Mục lục
 1. Mô hình
 2. Thiết bị và phần mềm hỗ trợ
+   - Phần mềm GNS3
+   - Phần mềm VMWARE
+   - 3 router
+   - PC-1: Server với web server
+   - PC-2: Window7 với SDM
+   - PC-3: Kali Linux
+4. Cấu hình Cisco IPS
     - Router 1
     - Router 2
     - Router 3
@@ -26,8 +33,7 @@
     - Server
     - Cấu hình định tuyến RIP
     - Kiểm tra kết nối giữa các PC
-3. Cấu hình Cisco IPS
-4. Thực hiện tấn công
+5. Thực hiện tấn công
     - Phát hiện và ngăn chặn tấn công Ping of death từ Kali Linux
     - Phát hiện và ngăn chặn tấn công scan port
     - Phát hiện và ngăn chặn tấn công Dos
