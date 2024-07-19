@@ -16,9 +16,9 @@
 **TP. Hồ Chí Minh ngày 30 tháng 5 năm 2024**
 
 ## Mục lục
-1. Mô hình
-   - Mô hình
-   - Thiết bị
+1. Mô hình[#1]
+   - Mô hình[#1.1]
+   - Thiết bị[#1.2]
 3. Thiết bị và phần mềm hỗ trợ
    - Phần mềm GNS3
    - Phần mềm VMWARE
