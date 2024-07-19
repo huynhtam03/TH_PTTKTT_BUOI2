@@ -17,7 +17,9 @@
 
 ## Mục lục
 1. Mô hình
-2. Thiết bị và phần mềm hỗ trợ
+   - Mô hình
+   - Thiết bị
+3. Thiết bị và phần mềm hỗ trợ
    - Phần mềm GNS3
    - Phần mềm VMWARE
    - 3 router
