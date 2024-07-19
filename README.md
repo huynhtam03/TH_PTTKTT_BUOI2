@@ -1,18 +1,5 @@
-# BỘ CÔNG THƯƠNG
-## TRƯỜNG ĐẠI HỌC CÔNG THƯƠNG TP.HỒ CHÍ MINH
-### 🙡🕮🙣
 
-### BÀI BÁO CÁO
-**Môn:** Thực hành hệ thống tìm kiếm ngăn ngừa và phát hiện xâm nhập
-
-**Đề tài:** LAB 2
-
-**Giảng viên:** Bùi Duy Cương
-
-**SVTH:** Huỳnh Thanh Tâm
-
-**MSSV:** 2033210951
-
+## Triển khai Cisco IPS SDM 
 **TP. Hồ Chí Minh ngày 30 tháng 5 năm 2024**
 
 ## Mục lục
