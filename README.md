@@ -37,7 +37,7 @@
     - Phát hiện và ngăn chặn tấn công Dos
 ---
 <a name = '1'></a>
-# 1.	Mô hình
+## 1.	Mô hình
 ![image](https://github.com/user-attachments/assets/73fc5a2e-97ae-41ca-969a-cb6a27fa54a8)
 **Thiết bị**
 | Thiết bị  | Interface | Địa chỉ IPv4  | Subnet mask    | Default Gateway |
