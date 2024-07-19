@@ -16,31 +16,28 @@
 **TP. Hồ Chí Minh ngày 30 tháng 5 năm 2024**
 
 ## Mục lục
-1. Mô hình[#1]
-   - Mô hình[#1.1]
-   - Thiết bị[#1.2]
-3. Thiết bị và phần mềm hỗ trợ
-   - Phần mềm GNS3
-   - Phần mềm VMWARE
-   - 3 router
-   - PC-1: Server với web server
-   - PC-2: Window7 với SDM
-   - PC-3: Kali Linux
-4. Cấu hình Cisco IPS
-    - Router 1
-    - Router 2
-    - Router 3
-    - Kali Linux
-    - Win 7
-    - Server
-    - Cấu hình định tuyến RIP
-    - Kiểm tra kết nối giữa các PC
+[1. Mô hình](#1)
+   - [1.1 Mô hình](#1.1)
+   - [1.2 Thiết bị](#1.2)
+
+[2. Thiết bị và phần mềm hỗ trợ](#2)
+
+[3. Cấu hình Cisco IPS](#3)
+   - [3.1 Router 1](#3.1)
+   - [3.2 Router 2](#3.2)
+   - [3.3 Router 3](#3.3)
+   - Kali Linux
+   - Win 7
+   - Server
+   - Cấu hình định tuyến RIP
+   - Kiểm tra kết nối giữa các PC
 5. Thực hiện tấn công
     - Phát hiện và ngăn chặn tấn công Ping of death từ Kali Linux
     - Phát hiện và ngăn chặn tấn công scan port
     - Phát hiện và ngăn chặn tấn công Dos
-
-## Mô hình
+---
+<a name = '1'></a>
+# 1.	Mô hình
 ![image](https://github.com/user-attachments/assets/73fc5a2e-97ae-41ca-969a-cb6a27fa54a8)
 **Thiết bị**
 | Thiết bị  | Interface | Địa chỉ IPv4  | Subnet mask    | Default Gateway |
